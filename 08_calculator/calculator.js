@@ -18,7 +18,7 @@ const power = function() {
 	
 };
 
-const factorial = function() {
+const factorial = function() { 
 	
 };
 
